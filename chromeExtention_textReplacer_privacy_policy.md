@@ -25,7 +25,7 @@ No information is transmitted off the user's device.
 ## Contact
 For questions or support, please contact the developer via the Chrome Web Store support page.
 
-# テキストリプレイサー Chrome 拡張機能のプライバシーポリシー
+# テキスト置き換え拡張 for Chrome 拡張機能のプライバシーポリシー
 
 この拡張機能はいかなる個人情報も収集、保存、送信しません。
 
